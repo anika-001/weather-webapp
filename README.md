@@ -10,4 +10,4 @@ https://cors-anywhere.herokuapp.com/
 Icons:https://github.com/yuvraaaj/openweathermap-api-icons
 
 Note:
-Replace "Your APIKey" with your own api-key at Openweathermap.
+Replace App.js, Line 16: "Your APIKey" with your own api-key at Openweathermap.
